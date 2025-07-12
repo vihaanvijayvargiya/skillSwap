@@ -22,8 +22,7 @@ env/
 .DS_Store
 Thumbs.db
 
-# Ignore testing artifacts
-api_testing_files/
+
 
 # Ignore PDFs or personal files
 *.pdf
